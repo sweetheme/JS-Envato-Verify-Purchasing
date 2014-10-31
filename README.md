@@ -26,10 +26,10 @@ In both sides you should include jquery and crypto.js files
 
 Add javascript for generator this create form named Envato you can style it, you will need to follow this 
 
-  - Replace Secret_item_Password with password for your this item 
-  - Replace encoding_password with password used to get the normal data of the user
-  - Replace 1234567 with your item ID
-  - Replace API_KEY with your envato Api Key
+  - Replace ``Secret_item_Password`` with password for your this item 
+  - Replace ``encoding_password`` with password used to get the normal data of the user
+  - Replace ``1234567`` with your item ID
+  - Replace ``API_KEY`` with your envato Api Key
 
 
 ##### 2- Item Side
