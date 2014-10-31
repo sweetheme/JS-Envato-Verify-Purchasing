@@ -11,7 +11,7 @@ If someone try to purchase the item and publish it for free he must include his 
 
 Yes They can do that.
 
-### How can i use it?
+### - How can i use it?
 
 At first you need to bulid this in two sides [Generator Side - Item Side] 
 
@@ -39,3 +39,15 @@ Now add item javascript in your item and follow this
   - Replace Secret_item_Password with password for your this item that you [same typed in generator.js]
   - Replace encoding_password with password used to get the normal data of the user [same typed in generator.js]
   - Add your javascript codes after this ``// Item Js codes under this``
+
+### - How can i get API KEY?
+
+In your themeforest settings page go to Api Key section and generate new Key.
+
+### - How can i find Item id?
+
+You will find it in your item URL after name of your item.
+
+### - How can i secure my codes?
+
+You need to encrypt javascript codes in both sides after you finish all of your settings.
