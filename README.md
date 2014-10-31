@@ -36,8 +36,8 @@ Add javascript for generator this create form named Envato you can style it, you
 
 Now add item javascript in your item and follow this 
 
-  - Replace Secret_item_Password with password for your this item that you [same typed in generator.js]
-  - Replace encoding_password with password used to get the normal data of the user [same typed in generator.js]
+  - Replace ``Secret_item_Password`` with password for your this item that you [same typed in generator.js]
+  - Replace ``encoding_password`` with password used to get the normal data of the user [same typed in generator.js]
   - Add your javascript codes after this ``// Item Js codes under this``
 
 ### - How can i get API KEY?
