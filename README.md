@@ -51,3 +51,7 @@ You will find it in your item URL after name of your item.
 ### - How can i secure my codes?
 
 You need to encrypt javascript codes in both sides after you finish all of your settings.
+
+### Tip for blogger/blogspot author? 
+
+You can find blogspot file in item find please follow it.
