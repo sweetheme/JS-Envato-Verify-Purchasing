@@ -1,0 +1,12 @@
+<!-- 
+  == If you are using blogger/blogspot instead of using <div class='buyer'></div> just add the following code in your template .xml file
+  == The buyer will not add the final code in html codes, only add the code in html widget from Layout Section
+-->
+
+<b:section class='purchase' id='purchase'>
+  <b:widget id='HTML999' locked='true' title='Purchasing Code' type='HTML'>
+    <b:includable id='main'>
+      <div class='buyer' style='display:none'><data:content/></div>
+    </b:includable>
+  </b:widget>
+</b:section>
