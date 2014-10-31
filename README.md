@@ -1,2 +1,2 @@
-JS-Envato-Verify-Purchasing
+Javascript Envato Verify Purchasing
 ===========================
